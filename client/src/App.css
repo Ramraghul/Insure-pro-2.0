@@ -1,0 +1,21 @@
+
+.submit-button,
+.clear-button {
+  padding: 8px 16px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.submit-button {
+  margin-top: 20px;
+  background-color: #28a745;
+  color: #fff;
+}
+
+.clear-button {
+  margin-top: 20px;
+  margin-left: 20px;
+  background-color: #dc3545;
+  color: #fff;
+}
